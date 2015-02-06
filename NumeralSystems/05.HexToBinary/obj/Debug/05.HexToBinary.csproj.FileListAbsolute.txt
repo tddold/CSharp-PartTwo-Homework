@@ -1,0 +1,5 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\05.HexToBinary\obj\Debug\05.HexToBinary.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\05.HexToBinary\obj\Debug\05.HexToBinary.pdb

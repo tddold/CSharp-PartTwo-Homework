@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.pdb

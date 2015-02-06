@@ -1,0 +1,5 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.pdb

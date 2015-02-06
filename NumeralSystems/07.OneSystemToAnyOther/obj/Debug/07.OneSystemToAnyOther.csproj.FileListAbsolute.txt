@@ -1,0 +1,5 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.pdb

@@ -1,0 +1,5 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\04.HexToDec\bin\Debug\04.HexToDec.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\04.HexToDec\bin\Debug\04.HexToDec.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\04.HexToDec\bin\Debug\04.HexToDec.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\04.HexToDec\obj\Debug\04.HexToDec.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\04.HexToDec\obj\Debug\04.HexToDec.pdb

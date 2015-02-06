@@ -1,0 +1,5 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\06.BinToHex\obj\Debug\06.BinToHex.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\new\NumeralSystems\06.BinToHex\obj\Debug\06.BinToHex.pdb
