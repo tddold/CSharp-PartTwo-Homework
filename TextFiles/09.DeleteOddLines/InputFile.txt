@@ -1,0 +1,47 @@
+2: starter stop start again start-up start start again 
+4: start again starter start again starter bystart start 
+6: stop starter starter starter start again start again 
+8: start-up starter start start-up stop starter 
+10: bystart start again start-up starting stop stop 
+12: starting bystart start again start-up stop start again 
+14: start bystart bystart start-up start again bystart 
+16: starter starting starter starting starting start 
+18: start again starter stop bystart bystart bystart 
+20: start start starter start-up start-up start-up 
+22: starting bystart starting starter starting start 
+24: stop start again starting stop bystart starting 
+26: bystart bystart start start start start 
+28: starting start-up start again stop start start-up 
+30: starter start starter start bystart start 
+32: stop bystart start again start-up bystart stop 
+34: start again start start start again start-up bystart 
+36: bystart start again starter start again start start 
+38: bystart start start again starting start start 
+40: start bystart stop bystart starter starting 
+42: bystart stop start-up starter start starting 
+44: start start-up stop start stop starter 
+46: starter start again start start again bystart starting 
+48: start again starting start again starter bystart stop 
+50: start-up starter bystart start-up starter stop 
+52: starting start-up bystart start again starter start again 
+54: start again starter start starting start again starting 
+56: start again start stop starting start-up starter 
+58: start start start starter starting start 
+60: stop start again start again stop bystart starter 
+62: bystart bystart starter start again stop stop 
+64: starter starter starting stop start-up start-up 
+66: start again bystart bystart starter start-up stop 
+68: bystart starter start again stop stop starting 
+70: bystart bystart start-up bystart start-up bystart 
+72: start start start starting bystart starting 
+74: stop stop starting stop starter starting 
+76: start-up starter starting starter starter starting 
+78: starting starting starting start starter start-up 
+80: starting stop bystart stop starter starting 
+82: start start-up start starting starting bystart 
+84: start starter starting start again start again starting 
+86: start again starting starter bystart start-up stop 
+88: start-up starter start again bystart bystart start-up 
+90: stop start-up starter starter start starting 
+92: start again start-up stop start stop start-up 
+94: bystart starting start again bystart starter stop 
