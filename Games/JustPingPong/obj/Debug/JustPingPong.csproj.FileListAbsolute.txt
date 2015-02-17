@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\JustPingPong\bin\Debug\JustPingPong.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\JustPingPong\bin\Debug\JustPingPong.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\JustPingPong\bin\Debug\JustPingPong.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\JustPingPong\obj\Debug\JustPingPong.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\JustPingPong\obj\Debug\JustPingPong.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\JustPingPong\obj\Debug\JustPingPong.pdb

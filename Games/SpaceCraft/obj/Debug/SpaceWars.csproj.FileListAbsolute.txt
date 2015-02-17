@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\SpaceCraft\bin\Debug\SpaceCraft.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\SpaceCraft\obj\Debug\SpaceCraft.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\SpaceCraft\obj\Debug\SpaceCraft.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\SpaceCraft\bin\Debug\SpaceCraft.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\SpaceCraft\bin\Debug\SpaceCraft.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\SpaceCraft\obj\Debug\SpaceWars.csprojResolveAssemblyReference.cache

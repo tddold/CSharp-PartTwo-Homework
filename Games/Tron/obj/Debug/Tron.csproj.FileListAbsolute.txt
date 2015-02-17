@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\Tron\bin\Debug\Tron.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\Tron\bin\Debug\Tron.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\Tron\bin\Debug\Tron.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\Tron\obj\Debug\Tron.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\Tron\obj\Debug\Tron.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\Games\Games\Tron\obj\Debug\Tron.pdb
