@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\BasicBASIC\BasicBASIC\bin\Debug\BasicBASIC.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\BasicBASIC\BasicBASIC\bin\Debug\BasicBASIC.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\BasicBASIC\BasicBASIC\bin\Debug\BasicBASIC.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\BasicBASIC\BasicBASIC\obj\Debug\BasicBASIC.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\BasicBASIC\BasicBASIC\obj\Debug\BasicBASIC.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\BasicBASIC\BasicBASIC\obj\Debug\BasicBASIC.pdb

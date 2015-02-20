@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\GenomeDecoder\bin\Debug\GenomeDecoder.exe.config
+D:\VisualStudio\ExamPreparationPart2\GenomeDecoder\bin\Debug\GenomeDecoder.exe
+D:\VisualStudio\ExamPreparationPart2\GenomeDecoder\bin\Debug\GenomeDecoder.pdb
+D:\VisualStudio\ExamPreparationPart2\GenomeDecoder\obj\Debug\GenomeDecoder.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\GenomeDecoder\obj\Debug\GenomeDecoder.exe
+D:\VisualStudio\ExamPreparationPart2\GenomeDecoder\obj\Debug\GenomeDecoder.pdb

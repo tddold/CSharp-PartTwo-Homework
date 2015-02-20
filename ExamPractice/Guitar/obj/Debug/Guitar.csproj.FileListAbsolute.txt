@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Guitar\bin\Debug\Guitar.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Guitar\bin\Debug\Guitar.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Guitar\bin\Debug\Guitar.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Guitar\obj\Debug\Guitar.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Guitar\obj\Debug\Guitar.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Guitar\obj\Debug\Guitar.pdb

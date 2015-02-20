@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Tubes\bin\Debug\Tubes.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Tubes\bin\Debug\Tubes.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Tubes\bin\Debug\Tubes.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Tubes\obj\Debug\Tubes.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Tubes\obj\Debug\Tubes.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\Tubes\obj\Debug\Tubes.pdb

@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\VariableLengthCodes\VariableLengthCodes\bin\Debug\VariableLengthCodes.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\VariableLengthCodes\VariableLengthCodes\bin\Debug\VariableLengthCodes.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\VariableLengthCodes\VariableLengthCodes\bin\Debug\VariableLengthCodes.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\VariableLengthCodes\VariableLengthCodes\obj\Debug\VariableLengthCodes.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\VariableLengthCodes\VariableLengthCodes\obj\Debug\VariableLengthCodes.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\VariableLengthCodes\VariableLengthCodes\obj\Debug\VariableLengthCodes.pdb

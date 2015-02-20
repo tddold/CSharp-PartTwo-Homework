@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDStars\ThreeDStars\bin\Debug\ThreeDStars.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDStars\ThreeDStars\bin\Debug\ThreeDStars.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDStars\ThreeDStars\bin\Debug\ThreeDStars.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDStars\ThreeDStars\obj\Debug\ThreeDStars.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDStars\ThreeDStars\obj\Debug\ThreeDStars.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDStars\ThreeDStars\obj\Debug\ThreeDStars.pdb

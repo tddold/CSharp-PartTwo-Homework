@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\SpecialValue\bin\Debug\SpecialValue.exe.config
+D:\VisualStudio\ExamPreparationPart2\SpecialValue\bin\Debug\SpecialValue.exe
+D:\VisualStudio\ExamPreparationPart2\SpecialValue\bin\Debug\SpecialValue.pdb
+D:\VisualStudio\ExamPreparationPart2\SpecialValue\obj\Debug\SpecialValue.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\SpecialValue\obj\Debug\SpecialValue.exe
+D:\VisualStudio\ExamPreparationPart2\SpecialValue\obj\Debug\SpecialValue.pdb

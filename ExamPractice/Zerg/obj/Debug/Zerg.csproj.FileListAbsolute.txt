@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\Zerg\bin\Debug\Zerg.exe.config
+D:\VisualStudio\ExamPreparationPart2\Zerg\obj\Debug\Zerg.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\Zerg\bin\Debug\Zerg.exe
+D:\VisualStudio\ExamPreparationPart2\Zerg\bin\Debug\Zerg.pdb
+D:\VisualStudio\ExamPreparationPart2\Zerg\obj\Debug\Zerg.exe
+D:\VisualStudio\ExamPreparationPart2\Zerg\obj\Debug\Zerg.pdb

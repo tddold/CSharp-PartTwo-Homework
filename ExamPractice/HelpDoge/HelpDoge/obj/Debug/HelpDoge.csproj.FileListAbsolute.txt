@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\HelpDoge\HelpDoge\bin\Debug\HelpDoge.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\HelpDoge\HelpDoge\obj\Debug\HelpDoge.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\HelpDoge\HelpDoge\bin\Debug\HelpDoge.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\HelpDoge\HelpDoge\bin\Debug\HelpDoge.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\HelpDoge\HelpDoge\obj\Debug\HelpDoge.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\HelpDoge\HelpDoge\obj\Debug\HelpDoge.pdb

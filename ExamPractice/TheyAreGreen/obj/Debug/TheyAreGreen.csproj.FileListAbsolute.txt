@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\TheyAreGreen\bin\Debug\TheyAreGreen.exe.config
+D:\VisualStudio\ExamPreparationPart2\TheyAreGreen\bin\Debug\TheyAreGreen.exe
+D:\VisualStudio\ExamPreparationPart2\TheyAreGreen\bin\Debug\TheyAreGreen.pdb
+D:\VisualStudio\ExamPreparationPart2\TheyAreGreen\obj\Debug\TheyAreGreen.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\TheyAreGreen\obj\Debug\TheyAreGreen.exe
+D:\VisualStudio\ExamPreparationPart2\TheyAreGreen\obj\Debug\TheyAreGreen.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\9GagNumbers\bin\Debug\9GagNumbers.exe.config
+D:\VisualStudio\ExamPreparationPart2\9GagNumbers\bin\Debug\9GagNumbers.exe
+D:\VisualStudio\ExamPreparationPart2\9GagNumbers\bin\Debug\9GagNumbers.pdb
+D:\VisualStudio\ExamPreparationPart2\9GagNumbers\obj\Debug\9GagNumbers.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\9GagNumbers\obj\Debug\9GagNumbers.exe
+D:\VisualStudio\ExamPreparationPart2\9GagNumbers\obj\Debug\9GagNumbers.pdb

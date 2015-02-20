@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.pdb

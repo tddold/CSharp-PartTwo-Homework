@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDSlides\ThreeDSlides\bin\Debug\ThreeDSlides.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDSlides\ThreeDSlides\obj\Debug\ThreeDSlides.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDSlides\ThreeDSlides\bin\Debug\ThreeDSlides.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDSlides\ThreeDSlides\bin\Debug\ThreeDSlides.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDSlides\ThreeDSlides\obj\Debug\ThreeDSlides.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDSlides\ThreeDSlides\obj\Debug\ThreeDSlides.pdb

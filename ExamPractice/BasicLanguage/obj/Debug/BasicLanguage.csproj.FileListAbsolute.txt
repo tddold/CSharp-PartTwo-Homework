@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\BasicLanguage\bin\Debug\BasicLanguage.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\BasicLanguage\bin\Debug\BasicLanguage.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\BasicLanguage\bin\Debug\BasicLanguage.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\BasicLanguage\obj\Debug\BasicLanguage.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\BasicLanguage\obj\Debug\BasicLanguage.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\BasicLanguage\obj\Debug\BasicLanguage.pdb

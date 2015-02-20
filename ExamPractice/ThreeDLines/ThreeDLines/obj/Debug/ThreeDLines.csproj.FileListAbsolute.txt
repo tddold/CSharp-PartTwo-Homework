@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDLines\ThreeDLines\bin\Debug\ThreeDLines.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDLines\ThreeDLines\obj\Debug\ThreeDLines.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDLines\ThreeDLines\bin\Debug\ThreeDLines.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDLines\ThreeDLines\bin\Debug\ThreeDLines.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDLines\ThreeDLines\obj\Debug\ThreeDLines.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\ThreeDLines\ThreeDLines\obj\Debug\ThreeDLines.pdb

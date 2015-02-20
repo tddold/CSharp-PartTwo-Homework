@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\MultiverseCommunication\obj\Debug\MultiverseCommunication.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\MultiverseCommunication\bin\Debug\MultiverseCommunication.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\MultiverseCommunication\obj\Debug\MultiverseCommunication.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\MultiverseCommunication\obj\Debug\MultiverseCommunication.pdb

@@ -1,0 +1,5 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\EncodeAndEncrypt\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\EncodeAndEncrypt\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\EncodeAndEncrypt\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\EncodeAndEncrypt\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\EncodeAndEncrypt\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.pdb

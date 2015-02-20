@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\Patterns\Patterns\obj\Debug\Patterns.pdb

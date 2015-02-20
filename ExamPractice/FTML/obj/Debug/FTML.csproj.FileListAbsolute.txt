@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\FTML\bin\Debug\FTML.exe.config
+D:\VisualStudio\ExamPreparationPart2\FTML\bin\Debug\FTML.exe
+D:\VisualStudio\ExamPreparationPart2\FTML\bin\Debug\FTML.pdb
+D:\VisualStudio\ExamPreparationPart2\FTML\obj\Debug\FTML.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\FTML\obj\Debug\FTML.exe
+D:\VisualStudio\ExamPreparationPart2\FTML\obj\Debug\FTML.pdb

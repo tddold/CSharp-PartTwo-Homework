@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\MovingLetters\bin\Debug\MovingLetters.exe.config
+D:\VisualStudio\ExamPreparationPart2\MovingLetters\bin\Debug\MovingLetters.exe
+D:\VisualStudio\ExamPreparationPart2\MovingLetters\bin\Debug\MovingLetters.pdb
+D:\VisualStudio\ExamPreparationPart2\MovingLetters\obj\Debug\MovingLetters.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\MovingLetters\obj\Debug\MovingLetters.exe
+D:\VisualStudio\ExamPreparationPart2\MovingLetters\obj\Debug\MovingLetters.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\Brackets\bin\Debug\Brackets.exe.config
+D:\VisualStudio\ExamPreparationPart2\Brackets\bin\Debug\Brackets.exe
+D:\VisualStudio\ExamPreparationPart2\Brackets\bin\Debug\Brackets.pdb
+D:\VisualStudio\ExamPreparationPart2\Brackets\obj\Debug\Brackets.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\Brackets\obj\Debug\Brackets.exe
+D:\VisualStudio\ExamPreparationPart2\Brackets\obj\Debug\Brackets.pdb

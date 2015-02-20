@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe.config
+D:\VisualStudio\ExamPreparationPart2\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+D:\VisualStudio\ExamPreparationPart2\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+D:\VisualStudio\ExamPreparationPart2\DurankulakNumbers\obj\Debug\DurankulakNumbers.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\DurankulakNumbers\obj\Debug\DurankulakNumbers.exe
+D:\VisualStudio\ExamPreparationPart2\DurankulakNumbers\obj\Debug\DurankulakNumbers.pdb

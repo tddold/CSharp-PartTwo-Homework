@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\ThreeInOne\bin\Debug\ThreeInOne.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\ThreeInOne\bin\Debug\ThreeInOne.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\ThreeInOne\bin\Debug\ThreeInOne.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\ThreeInOne\obj\Debug\ThreeInOne.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\ThreeInOne\obj\Debug\ThreeInOne.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\PreparingForExam\ThreeInOne\obj\Debug\ThreeInOne.pdb

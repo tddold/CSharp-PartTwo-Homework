@@ -1,0 +1,12 @@
+D:\VisualStudio\ExamPreparationPart2\OneTaskIsNotEnough\bin\Debug\OneTaskIsNotEnough.exe.config
+D:\VisualStudio\ExamPreparationPart2\OneTaskIsNotEnough\bin\Debug\OneTaskIsNotEnough.exe
+D:\VisualStudio\ExamPreparationPart2\OneTaskIsNotEnough\bin\Debug\OneTaskIsNotEnough.pdb
+D:\VisualStudio\ExamPreparationPart2\OneTaskIsNotEnough\obj\Debug\OneTaskIsNotEnough.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\OneTaskIsNotEnough\obj\Debug\OneTaskIsNotEnough.exe
+D:\VisualStudio\ExamPreparationPart2\OneTaskIsNotEnough\obj\Debug\OneTaskIsNotEnough.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPreparationPart2\OneTaskIsNotEnough\bin\Debug\OneTaskIsNotEnough.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPreparationPart2\OneTaskIsNotEnough\obj\Debug\OneTaskIsNotEnough.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPreparationPart2\OneTaskIsNotEnough\obj\Debug\OneTaskIsNotEnough.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPreparationPart2\OneTaskIsNotEnough\bin\Debug\OneTaskIsNotEnough.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPreparationPart2\OneTaskIsNotEnough\bin\Debug\OneTaskIsNotEnough.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPreparationPart2\OneTaskIsNotEnough\obj\Debug\OneTaskIsNotEnough.csprojResolveAssemblyReference.cache

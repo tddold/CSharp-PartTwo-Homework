@@ -1,0 +1,6 @@
+D:\VisualStudio\ExamPreparationPart2\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
+D:\VisualStudio\ExamPreparationPart2\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+D:\VisualStudio\ExamPreparationPart2\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+D:\VisualStudio\ExamPreparationPart2\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ExamPreparationPart2\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+D:\VisualStudio\ExamPreparationPart2\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb

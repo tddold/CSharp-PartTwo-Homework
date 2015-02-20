@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\MagicWords\MagicWords\bin\Debug\MagicWords.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\MagicWords\MagicWords\bin\Debug\MagicWords.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\MagicWords\MagicWords\bin\Debug\MagicWords.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\MagicWords\MagicWords\obj\Debug\MagicWords.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\MagicWords\MagicWords\obj\Debug\MagicWords.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\ExamPrep\MagicWords\MagicWords\obj\Debug\MagicWords.pdb
