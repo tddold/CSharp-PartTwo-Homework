@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\MathExpressionCalculator\MathExpressionCalculator\bin\Debug\MathExpressionCalculator.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\MathExpressionCalculator\MathExpressionCalculator\bin\Debug\MathExpressionCalculator.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\MathExpressionCalculator\MathExpressionCalculator\bin\Debug\MathExpressionCalculator.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\MathExpressionCalculator\MathExpressionCalculator\obj\Debug\MathExpressionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\MathExpressionCalculator\MathExpressionCalculator\obj\Debug\MathExpressionCalculator.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\MathExpressionCalculator\MathExpressionCalculator\obj\Debug\MathExpressionCalculator.pdb
