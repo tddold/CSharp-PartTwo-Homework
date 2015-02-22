@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\StringLecture\StringLecture\bin\Debug\StringLecture.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\StringLecture\StringLecture\bin\Debug\StringLecture.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\StringLecture\StringLecture\bin\Debug\StringLecture.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\StringLecture\StringLecture\obj\Debug\StringLecture.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\StringLecture\StringLecture\obj\Debug\StringLecture.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\C# part2\StringLecture\StringLecture\obj\Debug\StringLecture.pdb
